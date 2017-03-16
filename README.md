@@ -1,5 +1,4 @@
-﻿# garmin-speedcam-icons
-Speedcam icons with vector sources for Garmin navigators
+# Speedcam icons with vector sources for Garmin navigators
 
 [Photoshop vector images](src) and final bitmaps (indexed `BMP` 8bpp, "transparent" color - Magenta `FF00FF`)
 for Speedcam POI collection files (`GPI` format) for Garmin devices with different screen resolutions.
